@@ -1,0 +1,16 @@
+body{
+    width: 100%;
+    background-image: url("https://c0.wallpaperflare.com/preview/576/833/208/buero-co-working-coder-creative.jpg"); 
+}
+.divv{
+    background-color: grey;
+    width: 300px;
+    height: 250px;
+    padding-top: 50px;
+    font-size: 20px;
+}
+nav{
+    align-items: 0%;
+    top: 100%;
+    left: 500px;
+}
